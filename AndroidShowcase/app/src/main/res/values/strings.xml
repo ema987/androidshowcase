@@ -1,0 +1,15 @@
+<resources>
+    <string name="app_name">W3MA\'s AndroidShowcase</string>
+
+    <!-- LIST TITLES -->
+    <string name="messageWithLinkInTextViewTitle">Message with link in TextView</string>
+    <string name="messageWithSpannableLinkInTextViewTitle">Message with spannable link in TextView</string>
+    <string name="autoHideKeyboardEditTextTitle">Auto dismiss keyboard EditText</string>
+    <!-- END LIST TITLES -->
+
+    <!-- RESOURCES -->
+    <string name="messageWithLink">This is a message with a link inside!\n<a href="https://www.google.com/">Tap here to open it!</a></string>
+    <string name="messageWithSpannableLink">This is a message with a spannable link inside!\nTap here to open it!</string>
+    <string name="touchOutsideToHide">Touch outside an EditText to hide the keyboard automatically</string>
+    <!-- END RESOURCES -->
+</resources>
